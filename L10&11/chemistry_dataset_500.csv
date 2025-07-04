@@ -1,0 +1,501 @@
+Chemical1,Chemical2,Result
+Nitric Acid,Water,Acidic
+Nitric Acid,Sulfuric Acid,Acidic
+Hydrochloric Acid,Hydrochloric Acid,Acidic
+Sulfuric Acid,Sulfuric Acid,Acidic
+Sugar Solution,Ethanol,Neutral
+Ethanol,Ammonia,Basic
+Ethanol,Ammonia,Basic
+Potassium Hydroxide,Sodium Hydroxide,Basic
+Nitric Acid,Magnesium Hydroxide,Neutral
+Ethanol,Salt Solution,Neutral
+Sodium Hydroxide,Acetic Acid,Neutral
+Calcium Hydroxide,Phosphoric Acid,Neutral
+Hydrochloric Acid,Sulfuric Acid,Acidic
+Salt Solution,Salt Solution,Neutral
+Potassium Hydroxide,Acetic Acid,Neutral
+Glucose,Sodium Hydroxide,Basic
+Sodium Hydroxide,Glucose,Basic
+Calcium Hydroxide,Phosphoric Acid,Neutral
+Potassium Hydroxide,Acetic Acid,Neutral
+Nitric Acid,Calcium Hydroxide,Neutral
+Acetic Acid,Sulfuric Acid,Acidic
+Sodium Hydroxide,Nitric Acid,Neutral
+Sulfuric Acid,Salt Solution,Acidic
+Salt Solution,Salt Solution,Neutral
+Hydrochloric Acid,Nitric Acid,Acidic
+Sodium Hydroxide,Sugar Solution,Basic
+Water,Magnesium Hydroxide,Basic
+Ethanol,Salt Solution,Neutral
+Ethanol,Salt Solution,Neutral
+Potassium Hydroxide,Water,Basic
+Water,Calcium Hydroxide,Basic
+Acetic Acid,Water,Acidic
+Phosphoric Acid,Hydrochloric Acid,Acidic
+Magnesium Hydroxide,Potassium Hydroxide,Basic
+Sodium Hydroxide,Magnesium Hydroxide,Basic
+Ethanol,Potassium Hydroxide,Basic
+Salt Solution,Potassium Hydroxide,Basic
+Acetic Acid,Sugar Solution,Acidic
+Sodium Hydroxide,Glucose,Basic
+Sodium Hydroxide,Acetic Acid,Neutral
+Nitric Acid,Potassium Hydroxide,Neutral
+Acetic Acid,Water,Acidic
+Glucose,Glucose,Neutral
+Phosphoric Acid,Ammonia,Neutral
+Glucose,Sulfuric Acid,Acidic
+Magnesium Hydroxide,Glucose,Basic
+Phosphoric Acid,Calcium Hydroxide,Neutral
+Sugar Solution,Magnesium Hydroxide,Basic
+Calcium Hydroxide,Hydrochloric Acid,Neutral
+Nitric Acid,Calcium Hydroxide,Neutral
+Salt Solution,Sugar Solution,Neutral
+Sulfuric Acid,Calcium Hydroxide,Neutral
+Nitric Acid,Sodium Hydroxide,Neutral
+Sulfuric Acid,Potassium Hydroxide,Neutral
+Sugar Solution,Sugar Solution,Neutral
+Salt Solution,Sodium Hydroxide,Basic
+Sugar Solution,Water,Neutral
+Salt Solution,Phosphoric Acid,Acidic
+Potassium Hydroxide,Hydrochloric Acid,Neutral
+Ethanol,Potassium Hydroxide,Basic
+Magnesium Hydroxide,Phosphoric Acid,Neutral
+Calcium Hydroxide,Nitric Acid,Neutral
+Hydrochloric Acid,Hydrochloric Acid,Acidic
+Magnesium Hydroxide,Sodium Hydroxide,Basic
+Sodium Hydroxide,Sugar Solution,Basic
+Sulfuric Acid,Calcium Hydroxide,Neutral
+Glucose,Water,Neutral
+Sulfuric Acid,Hydrochloric Acid,Acidic
+Ammonia,Nitric Acid,Neutral
+Nitric Acid,Hydrochloric Acid,Acidic
+Magnesium Hydroxide,Magnesium Hydroxide,Basic
+Magnesium Hydroxide,Hydrochloric Acid,Neutral
+Water,Sugar Solution,Neutral
+Phosphoric Acid,Potassium Hydroxide,Neutral
+Nitric Acid,Salt Solution,Acidic
+Hydrochloric Acid,Water,Acidic
+Potassium Hydroxide,Acetic Acid,Neutral
+Potassium Hydroxide,Sugar Solution,Basic
+Sodium Hydroxide,Sodium Hydroxide,Basic
+Sulfuric Acid,Sulfuric Acid,Acidic
+Water,Phosphoric Acid,Acidic
+Acetic Acid,Sulfuric Acid,Acidic
+Sulfuric Acid,Glucose,Acidic
+Calcium Hydroxide,Potassium Hydroxide,Basic
+Sulfuric Acid,Magnesium Hydroxide,Neutral
+Ethanol,Magnesium Hydroxide,Basic
+Nitric Acid,Ammonia,Neutral
+Ethanol,Glucose,Neutral
+Glucose,Sulfuric Acid,Acidic
+Glucose,Water,Neutral
+Glucose,Sugar Solution,Neutral
+Nitric Acid,Hydrochloric Acid,Acidic
+Magnesium Hydroxide,Ammonia,Basic
+Ammonia,Sulfuric Acid,Neutral
+Acetic Acid,Phosphoric Acid,Acidic
+Salt Solution,Nitric Acid,Acidic
+Sugar Solution,Nitric Acid,Acidic
+Hydrochloric Acid,Magnesium Hydroxide,Neutral
+Ethanol,Water,Neutral
+Ethanol,Phosphoric Acid,Acidic
+Ethanol,Phosphoric Acid,Acidic
+Sulfuric Acid,Phosphoric Acid,Acidic
+Sodium Hydroxide,Nitric Acid,Neutral
+Ammonia,Nitric Acid,Neutral
+Sodium Hydroxide,Magnesium Hydroxide,Basic
+Sulfuric Acid,Ethanol,Acidic
+Calcium Hydroxide,Phosphoric Acid,Neutral
+Ethanol,Sodium Hydroxide,Basic
+Water,Hydrochloric Acid,Acidic
+Calcium Hydroxide,Sugar Solution,Basic
+Ethanol,Hydrochloric Acid,Acidic
+Magnesium Hydroxide,Salt Solution,Basic
+Ammonia,Potassium Hydroxide,Basic
+Hydrochloric Acid,Water,Acidic
+Acetic Acid,Sodium Hydroxide,Neutral
+Ammonia,Magnesium Hydroxide,Basic
+Sodium Hydroxide,Sodium Hydroxide,Basic
+Nitric Acid,Sodium Hydroxide,Neutral
+Sugar Solution,Sugar Solution,Neutral
+Potassium Hydroxide,Sulfuric Acid,Neutral
+Glucose,Salt Solution,Neutral
+Sulfuric Acid,Sulfuric Acid,Acidic
+Water,Ammonia,Basic
+Ethanol,Ammonia,Basic
+Phosphoric Acid,Hydrochloric Acid,Acidic
+Magnesium Hydroxide,Glucose,Basic
+Potassium Hydroxide,Water,Basic
+Sugar Solution,Salt Solution,Neutral
+Water,Ethanol,Neutral
+Nitric Acid,Potassium Hydroxide,Neutral
+Ethanol,Potassium Hydroxide,Basic
+Nitric Acid,Potassium Hydroxide,Neutral
+Sulfuric Acid,Hydrochloric Acid,Acidic
+Ethanol,Glucose,Neutral
+Ammonia,Ethanol,Basic
+Ethanol,Acetic Acid,Acidic
+Potassium Hydroxide,Salt Solution,Basic
+Sodium Hydroxide,Hydrochloric Acid,Neutral
+Hydrochloric Acid,Acetic Acid,Acidic
+Ammonia,Water,Basic
+Nitric Acid,Sugar Solution,Acidic
+Sodium Hydroxide,Sodium Hydroxide,Basic
+Salt Solution,Sulfuric Acid,Acidic
+Water,Water,Neutral
+Sulfuric Acid,Glucose,Acidic
+Acetic Acid,Acetic Acid,Acidic
+Ethanol,Calcium Hydroxide,Basic
+Potassium Hydroxide,Salt Solution,Basic
+Sodium Hydroxide,Ethanol,Basic
+Sugar Solution,Sulfuric Acid,Acidic
+Sulfuric Acid,Potassium Hydroxide,Neutral
+Ammonia,Phosphoric Acid,Neutral
+Sodium Hydroxide,Sodium Hydroxide,Basic
+Sodium Hydroxide,Calcium Hydroxide,Basic
+Ethanol,Sulfuric Acid,Acidic
+Ethanol,Potassium Hydroxide,Basic
+Ethanol,Ammonia,Basic
+Acetic Acid,Phosphoric Acid,Acidic
+Hydrochloric Acid,Calcium Hydroxide,Neutral
+Acetic Acid,Sulfuric Acid,Acidic
+Sulfuric Acid,Acetic Acid,Acidic
+Phosphoric Acid,Ammonia,Neutral
+Sodium Hydroxide,Water,Basic
+Nitric Acid,Magnesium Hydroxide,Neutral
+Acetic Acid,Potassium Hydroxide,Neutral
+Sodium Hydroxide,Sulfuric Acid,Neutral
+Glucose,Potassium Hydroxide,Basic
+Nitric Acid,Potassium Hydroxide,Neutral
+Calcium Hydroxide,Magnesium Hydroxide,Basic
+Sodium Hydroxide,Phosphoric Acid,Neutral
+Hydrochloric Acid,Nitric Acid,Acidic
+Nitric Acid,Potassium Hydroxide,Neutral
+Acetic Acid,Ammonia,Neutral
+Phosphoric Acid,Calcium Hydroxide,Neutral
+Glucose,Glucose,Neutral
+Sodium Hydroxide,Nitric Acid,Neutral
+Sugar Solution,Nitric Acid,Acidic
+Magnesium Hydroxide,Glucose,Basic
+Potassium Hydroxide,Ammonia,Basic
+Sodium Hydroxide,Nitric Acid,Neutral
+Calcium Hydroxide,Ammonia,Basic
+Glucose,Hydrochloric Acid,Acidic
+Sodium Hydroxide,Sodium Hydroxide,Basic
+Sodium Hydroxide,Sodium Hydroxide,Basic
+Glucose,Acetic Acid,Acidic
+Potassium Hydroxide,Calcium Hydroxide,Basic
+Ammonia,Salt Solution,Basic
+Sugar Solution,Ethanol,Neutral
+Calcium Hydroxide,Magnesium Hydroxide,Basic
+Phosphoric Acid,Ammonia,Neutral
+Ethanol,Water,Neutral
+Water,Ammonia,Basic
+Ammonia,Ethanol,Basic
+Salt Solution,Calcium Hydroxide,Basic
+Ammonia,Sodium Hydroxide,Basic
+Ethanol,Potassium Hydroxide,Basic
+Sodium Hydroxide,Nitric Acid,Neutral
+Nitric Acid,Ethanol,Acidic
+Potassium Hydroxide,Magnesium Hydroxide,Basic
+Sodium Hydroxide,Hydrochloric Acid,Neutral
+Salt Solution,Calcium Hydroxide,Basic
+Salt Solution,Acetic Acid,Acidic
+Phosphoric Acid,Potassium Hydroxide,Neutral
+Acetic Acid,Salt Solution,Acidic
+Magnesium Hydroxide,Sodium Hydroxide,Basic
+Nitric Acid,Phosphoric Acid,Acidic
+Calcium Hydroxide,Salt Solution,Basic
+Glucose,Ethanol,Neutral
+Calcium Hydroxide,Water,Basic
+Phosphoric Acid,Salt Solution,Acidic
+Magnesium Hydroxide,Sodium Hydroxide,Basic
+Acetic Acid,Hydrochloric Acid,Acidic
+Nitric Acid,Hydrochloric Acid,Acidic
+Water,Glucose,Neutral
+Sulfuric Acid,Acetic Acid,Acidic
+Salt Solution,Hydrochloric Acid,Acidic
+Sulfuric Acid,Acetic Acid,Acidic
+Hydrochloric Acid,Sodium Hydroxide,Neutral
+Sulfuric Acid,Hydrochloric Acid,Acidic
+Ammonia,Hydrochloric Acid,Neutral
+Glucose,Hydrochloric Acid,Acidic
+Water,Acetic Acid,Acidic
+Calcium Hydroxide,Potassium Hydroxide,Basic
+Acetic Acid,Ethanol,Acidic
+Potassium Hydroxide,Water,Basic
+Ammonia,Sulfuric Acid,Neutral
+Sodium Hydroxide,Magnesium Hydroxide,Basic
+Ammonia,Sulfuric Acid,Neutral
+Sulfuric Acid,Sodium Hydroxide,Neutral
+Acetic Acid,Sodium Hydroxide,Neutral
+Water,Ammonia,Basic
+Calcium Hydroxide,Calcium Hydroxide,Basic
+Acetic Acid,Acetic Acid,Acidic
+Water,Magnesium Hydroxide,Basic
+Sodium Hydroxide,Calcium Hydroxide,Basic
+Sugar Solution,Sulfuric Acid,Acidic
+Magnesium Hydroxide,Nitric Acid,Neutral
+Phosphoric Acid,Sugar Solution,Acidic
+Salt Solution,Nitric Acid,Acidic
+Glucose,Glucose,Neutral
+Magnesium Hydroxide,Salt Solution,Basic
+Potassium Hydroxide,Calcium Hydroxide,Basic
+Sugar Solution,Phosphoric Acid,Acidic
+Nitric Acid,Sodium Hydroxide,Neutral
+Glucose,Glucose,Neutral
+Magnesium Hydroxide,Glucose,Basic
+Ammonia,Hydrochloric Acid,Neutral
+Salt Solution,Sugar Solution,Neutral
+Acetic Acid,Glucose,Acidic
+Nitric Acid,Ammonia,Neutral
+Phosphoric Acid,Glucose,Acidic
+Nitric Acid,Magnesium Hydroxide,Neutral
+Sulfuric Acid,Ammonia,Neutral
+Nitric Acid,Potassium Hydroxide,Neutral
+Sugar Solution,Potassium Hydroxide,Basic
+Salt Solution,Nitric Acid,Acidic
+Nitric Acid,Acetic Acid,Acidic
+Nitric Acid,Sulfuric Acid,Acidic
+Acetic Acid,Potassium Hydroxide,Neutral
+Acetic Acid,Salt Solution,Acidic
+Glucose,Ethanol,Neutral
+Sulfuric Acid,Glucose,Acidic
+Salt Solution,Salt Solution,Neutral
+Glucose,Ammonia,Basic
+Potassium Hydroxide,Phosphoric Acid,Neutral
+Calcium Hydroxide,Magnesium Hydroxide,Basic
+Salt Solution,Water,Neutral
+Glucose,Salt Solution,Neutral
+Phosphoric Acid,Potassium Hydroxide,Neutral
+Magnesium Hydroxide,Water,Basic
+Water,Glucose,Neutral
+Sulfuric Acid,Water,Acidic
+Sugar Solution,Sulfuric Acid,Acidic
+Sulfuric Acid,Calcium Hydroxide,Neutral
+Nitric Acid,Salt Solution,Acidic
+Ethanol,Nitric Acid,Acidic
+Water,Ammonia,Basic
+Water,Potassium Hydroxide,Basic
+Water,Ammonia,Basic
+Calcium Hydroxide,Ammonia,Basic
+Acetic Acid,Salt Solution,Acidic
+Hydrochloric Acid,Water,Acidic
+Phosphoric Acid,Water,Acidic
+Water,Magnesium Hydroxide,Basic
+Ammonia,Glucose,Basic
+Magnesium Hydroxide,Ammonia,Basic
+Sodium Hydroxide,Magnesium Hydroxide,Basic
+Glucose,Sugar Solution,Neutral
+Salt Solution,Hydrochloric Acid,Acidic
+Phosphoric Acid,Phosphoric Acid,Acidic
+Phosphoric Acid,Glucose,Acidic
+Ethanol,Phosphoric Acid,Acidic
+Calcium Hydroxide,Sugar Solution,Basic
+Ammonia,Ethanol,Basic
+Calcium Hydroxide,Magnesium Hydroxide,Basic
+Phosphoric Acid,Acetic Acid,Acidic
+Acetic Acid,Sugar Solution,Acidic
+Calcium Hydroxide,Glucose,Basic
+Nitric Acid,Sodium Hydroxide,Neutral
+Phosphoric Acid,Sodium Hydroxide,Neutral
+Glucose,Salt Solution,Neutral
+Sodium Hydroxide,Nitric Acid,Neutral
+Phosphoric Acid,Hydrochloric Acid,Acidic
+Sulfuric Acid,Ammonia,Neutral
+Sodium Hydroxide,Acetic Acid,Neutral
+Ammonia,Calcium Hydroxide,Basic
+Water,Nitric Acid,Acidic
+Phosphoric Acid,Potassium Hydroxide,Neutral
+Hydrochloric Acid,Sugar Solution,Acidic
+Sodium Hydroxide,Sulfuric Acid,Neutral
+Potassium Hydroxide,Water,Basic
+Magnesium Hydroxide,Sulfuric Acid,Neutral
+Sodium Hydroxide,Sugar Solution,Basic
+Sulfuric Acid,Sulfuric Acid,Acidic
+Sulfuric Acid,Hydrochloric Acid,Acidic
+Phosphoric Acid,Sugar Solution,Acidic
+Nitric Acid,Potassium Hydroxide,Neutral
+Magnesium Hydroxide,Sodium Hydroxide,Basic
+Water,Acetic Acid,Acidic
+Calcium Hydroxide,Acetic Acid,Neutral
+Sulfuric Acid,Sugar Solution,Acidic
+Ammonia,Glucose,Basic
+Acetic Acid,Magnesium Hydroxide,Neutral
+Ammonia,Nitric Acid,Neutral
+Magnesium Hydroxide,Phosphoric Acid,Neutral
+Phosphoric Acid,Calcium Hydroxide,Neutral
+Water,Acetic Acid,Acidic
+Hydrochloric Acid,Glucose,Acidic
+Salt Solution,Water,Neutral
+Potassium Hydroxide,Phosphoric Acid,Neutral
+Sulfuric Acid,Ammonia,Neutral
+Hydrochloric Acid,Sugar Solution,Acidic
+Calcium Hydroxide,Sugar Solution,Basic
+Acetic Acid,Phosphoric Acid,Acidic
+Ammonia,Water,Basic
+Glucose,Acetic Acid,Acidic
+Sugar Solution,Acetic Acid,Acidic
+Hydrochloric Acid,Sugar Solution,Acidic
+Magnesium Hydroxide,Ammonia,Basic
+Calcium Hydroxide,Sulfuric Acid,Neutral
+Water,Water,Neutral
+Sulfuric Acid,Sugar Solution,Acidic
+Potassium Hydroxide,Acetic Acid,Neutral
+Phosphoric Acid,Sodium Hydroxide,Neutral
+Sugar Solution,Ammonia,Basic
+Glucose,Acetic Acid,Acidic
+Potassium Hydroxide,Water,Basic
+Potassium Hydroxide,Sugar Solution,Basic
+Sulfuric Acid,Phosphoric Acid,Acidic
+Sulfuric Acid,Hydrochloric Acid,Acidic
+Nitric Acid,Sodium Hydroxide,Neutral
+Nitric Acid,Calcium Hydroxide,Neutral
+Sulfuric Acid,Ammonia,Neutral
+Sulfuric Acid,Potassium Hydroxide,Neutral
+Salt Solution,Nitric Acid,Acidic
+Acetic Acid,Glucose,Acidic
+Ammonia,Nitric Acid,Neutral
+Ethanol,Sodium Hydroxide,Basic
+Magnesium Hydroxide,Acetic Acid,Neutral
+Sodium Hydroxide,Hydrochloric Acid,Neutral
+Salt Solution,Sugar Solution,Neutral
+Magnesium Hydroxide,Ethanol,Basic
+Calcium Hydroxide,Water,Basic
+Nitric Acid,Salt Solution,Acidic
+Potassium Hydroxide,Acetic Acid,Neutral
+Acetic Acid,Sulfuric Acid,Acidic
+Salt Solution,Water,Neutral
+Ethanol,Glucose,Neutral
+Ethanol,Sulfuric Acid,Acidic
+Glucose,Calcium Hydroxide,Basic
+Ethanol,Sulfuric Acid,Acidic
+Glucose,Ethanol,Neutral
+Water,Salt Solution,Neutral
+Nitric Acid,Nitric Acid,Acidic
+Nitric Acid,Salt Solution,Acidic
+Sugar Solution,Ethanol,Neutral
+Glucose,Ammonia,Basic
+Calcium Hydroxide,Sugar Solution,Basic
+Salt Solution,Sugar Solution,Neutral
+Potassium Hydroxide,Acetic Acid,Neutral
+Ethanol,Nitric Acid,Acidic
+Sugar Solution,Water,Neutral
+Ammonia,Calcium Hydroxide,Basic
+Ethanol,Nitric Acid,Acidic
+Sodium Hydroxide,Sulfuric Acid,Neutral
+Hydrochloric Acid,Ammonia,Neutral
+Ammonia,Salt Solution,Basic
+Phosphoric Acid,Sodium Hydroxide,Neutral
+Sugar Solution,Sugar Solution,Neutral
+Sulfuric Acid,Sulfuric Acid,Acidic
+Calcium Hydroxide,Salt Solution,Basic
+Glucose,Phosphoric Acid,Acidic
+Sugar Solution,Phosphoric Acid,Acidic
+Ammonia,Ammonia,Basic
+Phosphoric Acid,Glucose,Acidic
+Sugar Solution,Nitric Acid,Acidic
+Phosphoric Acid,Water,Acidic
+Glucose,Phosphoric Acid,Acidic
+Water,Water,Neutral
+Hydrochloric Acid,Salt Solution,Acidic
+Ammonia,Ethanol,Basic
+Water,Nitric Acid,Acidic
+Ammonia,Sulfuric Acid,Neutral
+Salt Solution,Phosphoric Acid,Acidic
+Ethanol,Calcium Hydroxide,Basic
+Phosphoric Acid,Sodium Hydroxide,Neutral
+Magnesium Hydroxide,Ethanol,Basic
+Ammonia,Sodium Hydroxide,Basic
+Calcium Hydroxide,Sulfuric Acid,Neutral
+Calcium Hydroxide,Calcium Hydroxide,Basic
+Ethanol,Nitric Acid,Acidic
+Potassium Hydroxide,Ammonia,Basic
+Acetic Acid,Calcium Hydroxide,Neutral
+Glucose,Acetic Acid,Acidic
+Ethanol,Magnesium Hydroxide,Basic
+Phosphoric Acid,Calcium Hydroxide,Neutral
+Water,Sugar Solution,Neutral
+Magnesium Hydroxide,Water,Basic
+Hydrochloric Acid,Salt Solution,Acidic
+Sodium Hydroxide,Sulfuric Acid,Neutral
+Hydrochloric Acid,Hydrochloric Acid,Acidic
+Nitric Acid,Calcium Hydroxide,Neutral
+Sodium Hydroxide,Nitric Acid,Neutral
+Acetic Acid,Sugar Solution,Acidic
+Calcium Hydroxide,Magnesium Hydroxide,Basic
+Salt Solution,Phosphoric Acid,Acidic
+Sulfuric Acid,Phosphoric Acid,Acidic
+Sodium Hydroxide,Salt Solution,Basic
+Water,Magnesium Hydroxide,Basic
+Phosphoric Acid,Ammonia,Neutral
+Salt Solution,Ammonia,Basic
+Ethanol,Ammonia,Basic
+Phosphoric Acid,Potassium Hydroxide,Neutral
+Ammonia,Salt Solution,Basic
+Acetic Acid,Ammonia,Neutral
+Salt Solution,Hydrochloric Acid,Acidic
+Calcium Hydroxide,Hydrochloric Acid,Neutral
+Hydrochloric Acid,Salt Solution,Acidic
+Potassium Hydroxide,Water,Basic
+Potassium Hydroxide,Sodium Hydroxide,Basic
+Acetic Acid,Phosphoric Acid,Acidic
+Ethanol,Phosphoric Acid,Acidic
+Glucose,Magnesium Hydroxide,Basic
+Salt Solution,Phosphoric Acid,Acidic
+Ammonia,Potassium Hydroxide,Basic
+Potassium Hydroxide,Glucose,Basic
+Hydrochloric Acid,Phosphoric Acid,Acidic
+Acetic Acid,Calcium Hydroxide,Neutral
+Potassium Hydroxide,Ethanol,Basic
+Phosphoric Acid,Ethanol,Acidic
+Hydrochloric Acid,Sodium Hydroxide,Neutral
+Phosphoric Acid,Acetic Acid,Acidic
+Sulfuric Acid,Ethanol,Acidic
+Phosphoric Acid,Phosphoric Acid,Acidic
+Sugar Solution,Phosphoric Acid,Acidic
+Glucose,Hydrochloric Acid,Acidic
+Nitric Acid,Acetic Acid,Acidic
+Potassium Hydroxide,Glucose,Basic
+Sodium Hydroxide,Acetic Acid,Neutral
+Water,Ethanol,Neutral
+Hydrochloric Acid,Ethanol,Acidic
+Calcium Hydroxide,Magnesium Hydroxide,Basic
+Hydrochloric Acid,Calcium Hydroxide,Neutral
+Potassium Hydroxide,Hydrochloric Acid,Neutral
+Hydrochloric Acid,Salt Solution,Acidic
+Potassium Hydroxide,Hydrochloric Acid,Neutral
+Acetic Acid,Magnesium Hydroxide,Neutral
+Calcium Hydroxide,Hydrochloric Acid,Neutral
+Phosphoric Acid,Water,Acidic
+Ethanol,Glucose,Neutral
+Nitric Acid,Salt Solution,Acidic
+Hydrochloric Acid,Sodium Hydroxide,Neutral
+Sugar Solution,Sulfuric Acid,Acidic
+Nitric Acid,Nitric Acid,Acidic
+Acetic Acid,Potassium Hydroxide,Neutral
+Calcium Hydroxide,Phosphoric Acid,Neutral
+Sodium Hydroxide,Sugar Solution,Basic
+Calcium Hydroxide,Calcium Hydroxide,Basic
+Ammonia,Hydrochloric Acid,Neutral
+Salt Solution,Sodium Hydroxide,Basic
+Acetic Acid,Ethanol,Acidic
+Sulfuric Acid,Ethanol,Acidic
+Magnesium Hydroxide,Magnesium Hydroxide,Basic
+Sugar Solution,Phosphoric Acid,Acidic
+Sulfuric Acid,Sodium Hydroxide,Neutral
+Potassium Hydroxide,Water,Basic
+Sugar Solution,Phosphoric Acid,Acidic
+Salt Solution,Potassium Hydroxide,Basic
+Phosphoric Acid,Sugar Solution,Acidic
+Water,Sodium Hydroxide,Basic
+Salt Solution,Water,Neutral
+Sodium Hydroxide,Calcium Hydroxide,Basic
+Potassium Hydroxide,Water,Basic
+Potassium Hydroxide,Magnesium Hydroxide,Basic
+Glucose,Potassium Hydroxide,Basic
+Salt Solution,Nitric Acid,Acidic
+Sodium Hydroxide,Sulfuric Acid,Neutral
+Hydrochloric Acid,Sugar Solution,Acidic
+Ammonia,Calcium Hydroxide,Basic
+Calcium Hydroxide,Water,Basic
